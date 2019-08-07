@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE AppInfoText>
+<app_info>
+ <lib_id>{069A710C-DA0C-45c6-AEF0-A96F5E8C651E}</lib_id>
+ <id>{F20393DB-91F2-427f-ADAF-C6C1A3CC58BD}</id>
+ <tooltip></tooltip>
+ <caption></caption>
+ <lib_app_count>0</lib_app_count>
+ <app_index>0</app_index>
+ <icon_path></icon_path>
+  <app_path>..\Common Files\logishrd\SharedBin\LVAPI11.dll</app_path>
+  <app_type>0x0800</app_type>
+  <sort_order></sort_order>
+  <version>13.00</version>
+  <build>1722</build>
+  <luproduct>help_main</luproduct>
+</app_info>
